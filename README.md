@@ -1,4 +1,4 @@
-[![Codewars](https://github.r2v.ch/codewars?user=tsokur&name=true&top_languages=true&theme=purple_dark)(LINK)]
+[![Codewars](https://github.r2v.ch/codewars?user=tsokur&name=true&top_languages=true&theme=purple_dark)(https://www.codewars.com/users/tsokur)]
 
 <!--
 ### Hi there 👋
