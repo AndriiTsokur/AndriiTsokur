@@ -1,4 +1,8 @@
+![Codewars](https://github.r2v.ch/codewars?user=tsokur)
+
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **AndriiTsokur/AndriiTsokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
