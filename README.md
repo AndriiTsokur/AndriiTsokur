@@ -1,4 +1,10 @@
-![Codewars](https://github.r2v.ch/codewars?user=tsokur&name=true&top_languages=true&theme=light)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=tsokur" />
+    </a>
+</p>
+
+<!--[![Codewars](https://github.r2v.ch/codewars?user=tsokur&name=true&top_languages=true&theme=purple_dark)(LINK)]-->
 
 <!--
 ### Hi there 👋
