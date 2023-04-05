@@ -1,6 +1,6 @@
 <p align="center" >
  <a href="https://www.codewars.com/users/tsokur">
-   <img src="https://github.r2v.ch/codewars?user=tsokur&name=true&top_languages=true&theme=purple_dark" />
+   <img src="https://github.r2v.ch/codewars?user=tsokur&name=true&top_languages=true&theme=purple_dark&hide_clan=true" />
  </a>
 </p>
 
